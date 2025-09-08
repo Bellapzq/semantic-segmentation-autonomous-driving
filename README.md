@@ -59,7 +59,7 @@ In this project, we explored **semantic segmentation** of forest imagery to clas
 
 ## 📺 Deliverables
 - [Report (PDF)](./VisionPro9517FinalReport.pdf)  
-- [Presentation video ](https://drive.google.com/file/d/1LkP_g7P-GkiijGlseAyj-h8Y8daxdQnT/view?usp=sharing) (Google cloud)
+- [Presentation video ](https://drive.google.com/file/d/1LkP_g7P-GkiijGlseAyj-h8Y8daxdQnT/view?usp=drive_link) (Google cloud)
 - Source code (this repo)  
 
 ---
